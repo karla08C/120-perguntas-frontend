@@ -88,6 +88,11 @@ Essas Perguntas/Respostas tem o intuito de ser uma base para entrevistas e candi
 
 30.`Você pode explicar a diferença entre codificar um site para ser responsivo e usar uma estratégia mobile-first?`<br/><br/> 
 
+31. `Qual a diferença entre JavaScript e TypeScript?<br/>
+
+31. `Qual a importancia do versionamento de códigos?<br/>
+
+
   
   
   
